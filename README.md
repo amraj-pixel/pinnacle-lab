@@ -1,1 +1,1 @@
-"# pinnacle-lab" 
+PINNACLE_LABS_C
